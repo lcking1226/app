@@ -11,5 +11,5 @@ import { HeaderComponent } from "./header.component";
     imports: [CommonModule, RouterOutlet, HeaderComponent]
 })
 export class AppComponent {
-  title = 'app';
+  title = 'apps';
 }
